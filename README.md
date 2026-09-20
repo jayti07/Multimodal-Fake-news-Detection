@@ -1,8 +1,15 @@
 # 🛡️ Multi-Modal Fake News & Deepfake Detection System
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multimodal-fake-news-detection-0102.streamlit.app)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
+
 An end-to-end Multi-Modal AI system to detect fake news across **Text**, **Video (Deepfake)**, and **Audio (Synthetic Voice)** modalities, featuring an automated Retrieval-Augmented Generation (RAG) live fact-verification engine.
 
+🌐 **Live Interactive Web Application**: [https://multimodal-fake-news-detection-0102.streamlit.app](https://multimodal-fake-news-detection-0102.streamlit.app)
+
 ---
+
 
 ## 🌟 Key Features
 
