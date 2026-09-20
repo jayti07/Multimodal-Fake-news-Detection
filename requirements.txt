@@ -1,24 +1,23 @@
 # Core ML & Deep Learning
 torch
 torchvision
-torchaudio
-transformers
-datasets
-sentence-transformers
 scikit-learn
 numpy
 pandas
 
 # Vision & Audio Processing
-opencv-python
+opencv-python-headless
 pillow
 facenet-pytorch
 librosa
 soundfile
+speechrecognition
+imageio-ffmpeg
+openai-whisper
 
-# Web & API Deployment
+# Web Dashboard & Utilities
 streamlit
-fastapi
-uvicorn
 requests
 python-dotenv
+joblib
+
