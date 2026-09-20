@@ -1,0 +1,25 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data & Models (large files)
+data/*
+!data/.gitkeep
+models/*.pth
+models/*.onnx
+models/*.bin
+models/distilbert-*
+
+# Environment Secrets
+.env
+
+# VS Code & IDE Settings
+.vscode/
+.idea/
